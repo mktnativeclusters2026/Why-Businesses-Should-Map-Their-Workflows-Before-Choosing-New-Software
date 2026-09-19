@@ -1,0 +1,2 @@
+# Why-Businesses-Should-Map-Their-Workflows-Before-Choosing-New-Software
+A practical guide to understanding why businesses should map their workflows before choosing new software. This article covers workflow mapping, repetitive tasks, process bottlenecks, disconnected data, automation opportunities, software requirements, and the considerations involved in choosing between off-the-shelf and custom software solutions.
